@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leila4530
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning how to code on SheCodes!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : l.nikroo15@gmail.com
 
 <!---
